@@ -1,0 +1,155 @@
+{
+  "categorias": [
+    {
+      "titulo": "ASMR",
+      "link": "https://www.youtube.com/watch?v=MBRihNZGzA0",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Brain Melting Tingles",
+        "url": "https://www.youtube.com/watch?v=MBRihNZGzA0"
+      },
+      "videos": [
+        {
+          "titulo": "100+ Triggers from Ear to Ear for Tingles",
+          "url": "https://www.youtube.com/watch?v=KSYFrQE_6j8"
+        },
+        {
+          "titulo": "Close Inaudible Whispering",
+          "url": "https://www.youtube.com/watch?v=wNCtPZXMZZA"
+        },
+        {
+          "titulo": "Realistic Hair Brushing & Scalp Massage",
+          "url": "https://www.youtube.com/watch?v=B077Cn9wJ1A"
+        },
+        {
+          "titulo": "Acolhedor sala de cuidados com a pele",
+          "url": "https://www.youtube.com/watch?v=k6XbYMPYi80"
+        },
+        {
+          "titulo": "Traditional Chinese Hair Styling",
+          "url": "https://www.youtube.com/watch?v=5Uojz6hJqKw"
+        },
+        {
+          "titulo": "Unintentional ASMR voice EVER",
+          "url": "https://www.youtube.com/watch?v=u6J20_Aem3Y"
+        },
+        {
+          "titulo": "Soothing Spa Sounds with Poki",
+          "url": "https://www.youtube.com/watch?v=Qj8x-GYSWVs"
+        },
+        {
+          "titulo": "Intense Ear Attention",
+          "url": "https://www.youtube.com/watch?v=8ENP7TVcc-Y"
+        }        
+      ]
+    },
+    {
+      "titulo": "Music",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Lo-fi",
+        "url": "https://www.youtube.com/watch?v=ZhstyJSNKME"
+      },
+      "videos": [
+        {
+          "titulo": "Alternative songs to take a break",
+          "url": "https://www.youtube.com/watch?v=2chfsFTNEXw"
+        },
+        {
+          "titulo": "Lonely Day - 8D lo-fi",
+          "url": "https://www.youtube.com/watch?v=_zL0AAf-01I"
+        },
+        {
+          "titulo": "Relaxe BGM",
+          "url": "https://www.youtube.com/watch?v=1GPsepFmNes"
+        },
+        {
+          "titulo": "Ghibli Music Collection",
+          "url": "https://www.youtube.com/watch?v=x3QaPp1eth8"
+        }, 
+        {
+          "titulo": "Relaxing piano",
+          "url": "https://www.youtube.com/watch?v=KfsnL9_EoEc"
+        }
+      ]
+    },
+    {
+      "titulo": "Studies",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "筆箱の中身紹介",
+        "url": "https://www.youtube.com/watch?v=voqHASTlJ7E"
+      },
+      "videos": [
+        {
+          "titulo": "綺麗な字の書き方",
+          "url": "https://www.youtube.com/watch?v=YQ18BJVcLDc"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "STUDIO VLOG",
+          "url": "https://www.youtube.com/watch?v=2YIwkMzucZg"
+        },
+        {
+          "titulo": "A Day in the Life of a Harvard Student",
+          "url": "https://www.youtube.com/watch?v=XkFulQe9EVE"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "DUO COM A NAMORADA PRATINHA NO LOL",
+        "url": "https://www.youtube.com/watch?v=ddr-22XpaL4"
+      },
+      "videos": [
+        {
+          "titulo": "EXPLICANDO AS RUNAS E BUILD NOVAS DA EVELYNN",
+          "url": "https://www.youtube.com/watch?v=EqvRPmV2sUM"
+        },
+        {
+          "titulo": "2 Minecraft Speedrunners VS Terminator",
+          "url": "https://www.youtube.com/watch?v=O60zJzhYGEA&t=471s"
+        },
+        {
+          "titulo": "Getting Too Personal With People in Valorant",
+          "url": "https://www.youtube.com/watch?v=ilnW0_926zU"
+        },
+        {
+          "titulo": "Valkyrae Daily Makeup Routine",
+          "url": "https://www.youtube.com/watch?v=lXN_LwH-YE0"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    }
+  ]
+}
