@@ -5,7 +5,7 @@
       "link": "https://www.youtube.com/watch?v=MBRihNZGzA0",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Brain Melting Tingles",
+        "text": "Tentativas de não virar a madrugada acordada",
         "url": "https://www.youtube.com/watch?v=MBRihNZGzA0"
       },
       "videos": [
@@ -47,7 +47,7 @@
       "titulo": "Music",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Lo-fi",
+        "text": "Músicas para relaxar e concentrar",
         "url": "https://www.youtube.com/watch?v=ZhstyJSNKME"
       },
       "videos": [
@@ -77,7 +77,7 @@
       "titulo": "Studies",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "筆箱の中身紹介",
+        "text": "Procastinando vendo pessoas sendo produtivas",
         "url": "https://www.youtube.com/watch?v=voqHASTlJ7E"
       },
       "videos": [
@@ -100,32 +100,10 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "DUO COM A NAMORADA PRATINHA NO LOL",
+        "text": "Games variados mas nem tanto",
         "url": "https://www.youtube.com/watch?v=ddr-22XpaL4"
       },
       "videos": [
