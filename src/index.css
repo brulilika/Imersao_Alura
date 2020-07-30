@@ -26,7 +26,7 @@ a {
 
 #root{
   min-height: calc(100vh - var(--bodyPaddingTop));
-  background: blue;
+  background: rgb(115, 176, 197);
   display: flex;
   flex-direction: column;
 }
